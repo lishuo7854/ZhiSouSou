@@ -1,3 +1,27 @@
-// Place all the styles related to the SheBaojiankong controller here.
+// Place all the styles related to the she_baojiankong controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+
+body{background:rgb(240,240,240);}
+.shebao{padding: 25px;width:100%;background:#fff;}
+.menu_one{height:34px;padding-top:10px;font-size:10px;}
+/*#menu2{float:left;}*/
+.menu_one_title{float: left;padding-top:5px;color:rgb(154,154,154); }
+.menu_one_option{display:block;border-radius:0.3em;border:1px solid #ddd;float: left;margin-left: 10px;text-align: center;padding:4px;color:#5c5c5c;text-decoration:none;}
+.menu_one_option:hover,.menu_one_option:focus{background:#0c93e9;color:#fff;text-decoration:none;}
+
+.menu_one_left{float:left;float:right;font-size: 10px;padding-top:15px;}
+.menu_one_left_option{float:left;}
+.menu-text{height:30px;margin-right:10px;}
+.menu-search{display:block;border-radius:0.3em;background:rgb(36,170,255);color:rgb(255,255,255);margin-right:10px;padding: 5px;text-decoration:none;}
+.menu-xz{display:block;border-radius:0.3em;background:rgb(243,152,0);color:rgb(255,255,255);margin-right:10px;padding: 5px;text-decoration:none;}
+.menu-search:hover,.menu-search:focus{background:rgb(12,147,233);color:rgb(255,255,255);text-decoration:none;}
+.menu-xz:hover,.menu-xz:focus{background:rgb(212,133,0);color:rgb(255,255,255);text-decoration:none;}
+
+
+
