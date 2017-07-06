@@ -1,0 +1,2 @@
+class XiTongshezhiController < ApplicationController
+end
