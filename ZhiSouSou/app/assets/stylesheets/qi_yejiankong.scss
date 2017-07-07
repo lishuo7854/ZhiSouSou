@@ -6,6 +6,7 @@
 	padding: 0px;
 }
 
+
 //头部动态class
 .head_mouseover{
 	color: #F39800;
@@ -24,7 +25,7 @@
 
 .l_head{
 height: 60px;
-
+background-color: #fff;
 border-bottom: 1px solid #ECECEC;
 
 }
@@ -101,16 +102,20 @@ right: -140px;
 
 }
 
-
+.qiyejiankong_footer{
+	position: relative;
+	top: 100px;
+	
+}
 
 
 //display
 .header_right_display{
 	position: absolute;
-	width: 182px;
+	width: 150px;
 	height: 363px;
 	background: #fff;
-	margin-top: -75px;
+	margin-top: -77px;
 	z-index: 99;
 	display: none;
 	border: 1px solid #F8F8F8;
@@ -145,21 +150,24 @@ right: -140px;
 //筛选部分
 
 .middles{
+
 	position: relative;
 	top: 35px;
 }
 
 .middles-left{
 float: left;
+margin-top: -30px;
 margin-left: 30px;
 }
 .middles_right{
 float: right;
-
+margin-top: -30px;
 }
 
 .middles_left_buttom{
 margin-top: 20px;
+
 
 }
 .middles_left_top span , .middles_left_buttom span{
@@ -171,7 +179,12 @@ margin-top: 20px;
    color: #666666;
   border: 1px solid  #DDDDDD;
 }
+.middles_right_top{
 
+margin-top: -40px;
+
+
+}
 
 
 .middles_right{
@@ -189,13 +202,17 @@ float: left;
 	margin-top: 10px;
 }
 .middles_right_buttom{
-margin-left: 213px;
+margin-left: 229px;
 
 }
 .l_sousuo{
 	color: #fff;
      position: relative;
      left: 23px;
+   
+}
+#l_inp_name_id{
+  width: 336px;
 }
 .l_sousuos{
 
@@ -207,6 +224,6 @@ margin-left: 213px;
 
 .l_out_put{
 background: red;
-height:3 00px;
+height:34px;
 }
 
