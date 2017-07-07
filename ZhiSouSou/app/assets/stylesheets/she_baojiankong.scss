@@ -7,17 +7,18 @@
 @import "bootstrap";
 
 
-body{background:rgb(240,240,240);}
 .y-shebao{padding: 25px;width:100%;background:#fff;}
-.y-menu_one{height:34px;padding-top:0px;font-size:14px;line-height: 34px;}
-.y-jslx{margin-top:30px;}
+.y-menu_one{padding-top:0px;font-size:14px;line-height: 34px;}
+.y-jslx{margin-top:20px;}
 .y-menu_one_title{float: left;padding-top:5px;color:rgb(154,154,154); }
-.y-menu_one_option{display:block;border-radius:0.3em;border:1px solid #ddd;float: left;margin-left: 10px;text-align: center;padding:4px;color:#5c5c5c;text-decoration:none;}
-.y-menu_one_option:hover,.menu_one_option:focus{background:#0c93e9;color:#fff;text-decoration:none;}
+.j3,.j2{border-radius:0.3em;}
+.j3:hover,.j3:focus{background:#0c93e9;color:#fff;text-decoration:none;}
+.j2:hover,.j2:focus{background:#0c93e9;color:#fff;text-decoration:none;}
+
 
 .y-menu_one_left{float:left;float:right;font-size: 14px;padding-top:15px;}
 .y-menu_one_left_option{float:left;}
-.y-menu-text{height:36px;margin-right:10px;color:#555;border-radius: 4px;border:1px solid #ccc;}
+.y-menu-text{height:36px;width:300px;color:#555;border-radius: 4px;}
 .y-menu-search{display:block;border-radius:0.3em;background:rgb(36,170,255);color:rgb(255,255,255);margin-right:10px;padding: 5px 12px;text-decoration:none;}
 .y-menu-xz{display:block;border-radius:0.3em;background:rgb(243,152,0);color:rgb(255,255,255);margin-right:10px;padding: 5px 12px;text-decoration:none;}
 .y-menu-search:hover,.menu-search:focus{background:rgb(12,147,233);color:rgb(255,255,255);text-decoration:none;}
