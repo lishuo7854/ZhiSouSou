@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
 
 	  get 'she_baojiankong/index'
-
+                     get  'qi_yexiangqing/index'
 
 
 
