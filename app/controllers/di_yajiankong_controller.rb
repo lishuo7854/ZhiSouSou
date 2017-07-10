@@ -1,0 +1,2 @@
+class DiYajiankongController < ApplicationController
+end

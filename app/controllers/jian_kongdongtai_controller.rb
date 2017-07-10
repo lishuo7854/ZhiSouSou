@@ -1,0 +1,2 @@
+class JianKongdongtaiController < ApplicationController
+end
