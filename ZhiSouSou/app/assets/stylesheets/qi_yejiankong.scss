@@ -18,8 +18,12 @@
 	background-color: #fff;
 }
 
-
-
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
 
 
 
@@ -327,6 +331,7 @@ font-size: 13px;
 }
 
 .l_xq_middle_button{
+	clear: both;
                position: relative;
                top: 60px;
 	height: 50px;
@@ -362,3 +367,128 @@ font-size: 13px;
 	background-color: #3F82BB;
 	color: #fff;
 }
+
+
+
+    /*  <!--  ++++++风险概述 -->
+               <!--  ++++++风险概述 -->
+                <!--  ++++++风险概述 -->  */
+
+.l_xq_mid_title{
+	margin: 0 auto;
+        height: 56px;
+        width: 98%;
+        background: #fff;
+    margin-top: 80px;
+}
+
+.l_xq_mid_title_ul li{
+                      list-style: none;
+                      float: left;
+                      width: 20%;
+                      text-align: center;
+                      line-height: 56px;
+
+}
+
+.l_FengXzb{
+        width: 98%;
+        background-color: #fff;
+        margin: 0 auto;
+
+
+}
+
+.l_FengXzb_title{
+   width: 98%;
+    height: 56px;
+    line-height: 56px;
+  text-indent: 65px;
+  border-bottom: 1px solid  #EEEEEE;
+  font-size: 16px;
+}
+.l_FengXzb_content{
+	background-color: #fff;
+}
+.l_FengXzb_content_left{
+          margin:0 60px;
+          width: 43%;
+          float: left;
+
+}
+
+.l_FengXzb_content_right{
+                    float: right;
+	
+	     width: 43%;
+	     position: absolute;
+	     right: 60px;
+}
+
+.l_FengXzb_content_left span, .l_FengXzb_content_right span{
+	display: block;
+                  font-size: 20px;
+                  margin-top: 30px;
+
+}
+
+.l_FengXzb_content_left_ul li {
+	display: block;
+	height: 55px;
+	line-height: 55px;
+	width: 100%;
+	list-style: none;
+	border-bottom: 1px solid  #EEEEEE;
+}
+.l_FengXzb_content_left_ul li  a{
+	display: block;
+	width: 100%;
+}
+
+
+#l_FengXzb_Fmxi{
+	height: 800px;
+
+}
+
+
+.l_FengXzb_glgsfmxxt_table_title{
+         width: 100%;
+         text-align: center;
+         height: 56px;
+         line-height: 56px;
+
+}
+
+
+
+
+.l_FengXzb_glgsfmxxt_table{
+             margin: 0 auto;
+             width: 93%;
+       
+
+}
+.l_FengXzb_glgsfmxxt_table_tr{
+                    height: 37px;
+         line-height: 37px;
+         width: 93%;
+
+}
+
+
+.l_FengXzb_glgsfmxxt_table_td{
+              width: 100%;
+              text-align: center;
+                  height: 37px;
+         line-height: 37px;
+
+}
+
+
+
+
+
+.navFix{position: fixed; left: 15px; top: 0; width: 100%; min-width: 1220px; border-radius: 0; z-index: 9999;}
+
+.navFix_2{position: fixed; left: 15px; top: -30px; width: 100%; min-width: 1220px; border-radius: 0; z-index: 9999;}

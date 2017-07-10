@@ -11,3 +11,8 @@ Rails.application.config.assets.version = '1.0'
 # Rails.application.config.assets.precompile += %w( search.js )
 Rails.application.config.assets.precompile += %w( index.png )
 Rails.application.config.assets.precompile += %w( javascript.js )
+Rails.application.config.assets.precompile += %w( echarts.common.min.js )
+Rails.application.config.assets.precompile += %w( nav.js )
+
+
+
