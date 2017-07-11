@@ -1,14 +1,16 @@
 $(function (argument) {
-  $('.menu').on('mouseover', function (argument) {
-                    $(this) .css({
-                      'color':'#F39800',
-                      'background-color':'#F8F8F8'
-                    }).siblings('.menu').css({
-                      'background-color':'#fff',
-                      'color':'#666666'
-                    });
 
-})
+	//application   导航菜单
+//   $('.menu').on('click', function (argument) {
+//                     $(this) .css({
+//                       'color':'#F39800',
+//                       'background-color':'#F8F8F8'
+//                     }).siblings('.menu').css({
+//                       'background-color':'#fff',
+//                       'color':'#666666'
+//                     });
+
+// })
 
 //客户
 
@@ -48,6 +50,20 @@ $('.l_inp_sort').mouseover(function (argument) {
 })          .mouseout(function (argument) {
 	   $(this).css({'background-color':'#fff','color':'#666666'})
 })})
+//社保监控筛选
+$('.y_btn_inp').mouseover(function (argument) {
+	   $(this).css({'background-color':'#0C93E9','color':'#fff'})
+})          .mouseout(function (argument) {
+	   $(this).css({'background-color':'#fff','color':'#666666'})
+})          .click(function (argument) {
+	    $(this).css({'background-color':'#0C93E9','color':'#fff'})
+	    .off('mouseover mouseout').siblings('input').css({background: '#fff',color: '#666666'})
+	        .mouseover(function (argument) {
+	   $(this).css({'background-color':'#0C93E9','color':'#fff'})
+})          .mouseout(function (argument) {
+	   $(this).css({'background-color':'#fff','color':'#666666'})
+})})
+
 
 
 
