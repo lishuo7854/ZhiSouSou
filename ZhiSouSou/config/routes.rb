@@ -3,7 +3,7 @@ Rails.application.routes.draw do
 	  get 'she_baojiankong/index'
                      get  'qi_yexiangqing/index'
 
-
+    get 'di_yajiankong/index'
 
   root 'qi_yejiankong#index'
   resources :qi_yejiankong
