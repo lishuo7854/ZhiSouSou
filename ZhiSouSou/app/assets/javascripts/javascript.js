@@ -461,7 +461,32 @@ $(document).ready(function(){
 
 
 
+//抵押监控筛选功能
 
+    $(function (argument) {
+        $('.c_sx_jq,.c_sx_jq_kh').mouseover(function () {
+            $(this).css({'background-color': '#0C93E9', 'color': '#fff'})
+        })
+        $('.c_sx_jq,.c_sx_jq_kh').mouseleave(function () {
+            $(this).css({'background-color': '#fff', 'color': '#666'})
+        })
+
+        $('.c_sx_jq,.c_sx_jq_kh').click(function () {
+            $(this).css({'background-color': '#0C93E9', 'color': '#fff'})
+        })
+
+    })
+
+
+
+//法律诉讼
+
+    $(function (argument) {
+        $('.c_mbgs').click(function () {
+            $(".c_mbgs_gs").css({'display':'block'})
+        })
+
+    })
 
 
 
