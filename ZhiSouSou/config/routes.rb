@@ -6,7 +6,7 @@ Rails.application.routes.draw do
 
 
     get 'di_yajiankong/index'
-
+    get 'jian_kongdongtai/index'
   root 'qi_yejiankong#index'
   resources :qi_yejiankong
 
