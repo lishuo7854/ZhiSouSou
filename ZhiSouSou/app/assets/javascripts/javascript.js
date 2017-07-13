@@ -539,6 +539,67 @@ $(document).ready(function(){
 
 
 
+$('#l_xq_middle_button_mid_ul_li_id_1').click(function (argument) {
+        $('#qiyexiangqing_span_id_1').css('display','block').siblings('.qiyexiangqing_span_display').css('display','none')
+
+})
+
+
+
+
+
+// 详情页面导航菜单和内容切换
+$('#l_xq_middle_button_mid_ul_li_id_1').click(function (argument) {
+                $('.qyxq_menu_display_1').css('display','block')
+                    $('.qyxq_menu_display_2,.qyxq_menu_display_3,.qyxq_menu_display_4,.qyxq_menu_display_5,.qyxq_menu_display_6,.qyxq_menu_display_7,.qyxq_menu_display_8').css('display','none')
+})
+
+$('#l_xq_middle_button_mid_ul_li_id_2').click(function (argument) {
+                $('.qyxq_menu_display_2').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_3,.qyxq_menu_display_4,.qyxq_menu_display_5,.qyxq_menu_display_6,.qyxq_menu_display_7,.qyxq_menu_display_8').css('display','none')
+})
+$('#l_xq_middle_button_mid_ul_li_id_3').click(function (argument) {
+                $('.qyxq_menu_display_3').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_2,.qyxq_menu_display_4,.qyxq_menu_display_5,.qyxq_menu_display_6,.qyxq_menu_display_7,.qyxq_menu_display_8').css('display','none')
+})
+$('#l_xq_middle_button_mid_ul_li_id_4').click(function (argument) {
+                $('.qyxq_menu_display_4').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_3,.qyxq_menu_display_2,.qyxq_menu_display_5,.qyxq_menu_display_6,.qyxq_menu_display_7,.qyxq_menu_display_8').css('display','none')
+})
+$('#l_xq_middle_button_mid_ul_li_id_5').click(function (argument) {
+                $('.qyxq_menu_display_5').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_3,.qyxq_menu_display_2,.qyxq_menu_display_4,.qyxq_menu_display_6,.qyxq_menu_display_7,.qyxq_menu_display_8').css('display','none')
+})
+$('#l_xq_middle_button_mid_ul_li_id_6').click(function (argument) {
+                $('.qyxq_menu_display_6').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_3,.qyxq_menu_display_2,.qyxq_menu_display_4,.qyxq_menu_display_5,.qyxq_menu_display_7,.qyxq_menu_display_8').css('display','none')
+})
+$('#l_xq_middle_button_mid_ul_li_id_7').click(function (argument) {
+                $('.qyxq_menu_display_7').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_3,.qyxq_menu_display_2,.qyxq_menu_display_4,.qyxq_menu_display_5,.qyxq_menu_display_6,.qyxq_menu_display_8').css('display','none')
+})
+$('#l_xq_middle_button_mid_ul_li_id_8').click(function (argument) {
+                $('.qyxq_menu_display_8').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_3,.qyxq_menu_display_2,.qyxq_menu_display_4,.qyxq_menu_display_5,.qyxq_menu_display_6,.qyxq_menu_display_7').css('display','none')
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
