@@ -15,16 +15,38 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ZhiSouSou@Development__ZhiSouSou.coverage" NAME="Development: ZhiSouSou Coverage Results" MODIFIED="1499476461657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ZhiSouSou" />
+    <SUITE FILE_PATH="coverage/ZhiSouSou@Development__ZhiSouSou.coverage" NAME="Development: ZhiSouSou Coverage Results" MODIFIED="1499908585336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ZhiSouSou" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/she_baojiankong/index.html.erb">
+      <file leaf-file-name="_footer.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_contant-table.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_contant-table.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="78" lean-forward="false" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.rnc" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/rubymine.jar!/resources/html5-schema/html5/common.rnc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="192" column="18" lean-forward="false" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -33,19 +55,36 @@
       <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              <folding>
+                <marker date="1499831070623" expanded="true" signature="1525:1532" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="qi_yexiangqing.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/qi_yexiangqing.scss">
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/jian_kongdongtai/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="150">
+              <caret line="157" column="48" lean-forward="false" selection-start-line="157" selection-start-column="48" selection-end-line="157" selection-end-column="48" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#2;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#2;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#3;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#4;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#5;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#6;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#7;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,7 +92,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/qi_yejiankong/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
+            <state relative-caret-position="705">
               <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
@@ -63,8 +102,8 @@
       <file leaf-file-name="di_yajiankong.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/di_yajiankong.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1545">
-              <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -73,9 +112,118 @@
       <file leaf-file-name="javascript.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="488" column="6" lean-forward="false" selection-start-line="488" selection-start-column="6" selection-end-line="488" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="7800">
+              <caret line="539" column="2" lean-forward="false" selection-start-line="539" selection-start-column="2" selection-end-line="539" selection-end-column="2" />
+              <folding>
+                <marker date="1499911998891" expanded="true" signature="22:12922" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="2787:3016" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="2841:2907" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="2948:3014" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="3100:3200" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="3241:3343" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="3381:3874" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="3615:3715" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="3756:3858" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="3888:3992" ph="//..." />
+                <marker date="1499911998891" expanded="true" signature="4037:4103" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="4134:4201" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="4232:4589" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="4420:4486" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="4517:4584" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="4597:4627" ph="//..." />
+                <marker date="1499911998891" expanded="true" signature="4744:5979" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="4759:4837" ph="{&quot;trigger&quot;: 'item'...}" />
+                <marker date="1499911998891" expanded="true" signature="4851:5006" ph="{&quot;orient&quot;: 'vertical'...}" />
+                <marker date="1499911998891" expanded="true" signature="5020:5977" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="5021:5548" ph="{&quot;name&quot;: '访问来源'...}" />
+                <marker date="1499911998891" expanded="true" signature="5142:5223" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="5164:5213" ph="{&quot;position&quot;: 'inner'...}" />
+                <marker date="1499911998891" expanded="true" signature="5244:5319" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="5266:5309" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="5335:5542" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="5336:5421" ph="{&quot;name&quot;: '40后'...}" />
+                <marker date="1499911998891" expanded="true" signature="5423:5481" ph="{&quot;name&quot;: '50后'...}" />
+                <marker date="1499911998891" expanded="true" signature="5483:5541" ph="{&quot;name&quot;: '60后'...}" />
+                <marker date="1499911998891" expanded="true" signature="5550:5976" ph="{&quot;name&quot;: '访问来源'...}" />
+                <marker date="1499911998891" expanded="true" signature="5642:5970" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="5644:5707" ph="{&quot;name&quot;: '1946-1949'...}" />
+                <marker date="1499911998891" expanded="true" signature="5709:5773" ph="{&quot;name&quot;: '1950-1954'...}" />
+                <marker date="1499911998891" expanded="true" signature="5775:5838" ph="{&quot;name&quot;: '1955-1959'...}" />
+                <marker date="1499911998891" expanded="true" signature="5840:5904" ph="{&quot;name&quot;: '1960-1964'...}" />
+                <marker date="1499911998891" expanded="true" signature="5906:5969" ph="{&quot;name&quot;: '1965-1969'...}" />
+                <marker date="1499911998891" expanded="true" signature="6057:6120" ph="//..." />
+                <marker date="1499911998891" expanded="true" signature="6205:7186" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="6218:6271" ph="{&quot;text&quot;: '对数轴示例'...}" />
+                <marker date="1499911998891" expanded="true" signature="6286:6358" ph="{&quot;trigger&quot;: 'item'...}" />
+                <marker date="1499911998891" expanded="true" signature="6372:6432" ph="{&quot;left&quot;: 'left'...}" />
+                <marker date="1499911998891" expanded="true" signature="6445:6591" ph="{&quot;name&quot;: 'x'...}" />
+                <marker date="1499911998891" expanded="true" signature="6603:6700" ph="{&quot;left&quot;: '3%'...}" />
+                <marker date="1499911998891" expanded="true" signature="6713:6759" ph="{&quot;name&quot;: 'y'...}" />
+                <marker date="1499911998891" expanded="true" signature="6773:7184" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="6783:6904" ph="{&quot;name&quot;: '3的指数'...}" />
+                <marker date="1499911998891" expanded="true" signature="6914:7030" ph="{&quot;name&quot;: '2的指数'...}" />
+                <marker date="1499911998891" expanded="true" signature="7040:7178" ph="{&quot;name&quot;: '1/2的指数'...}" />
+                <marker date="1499911998891" expanded="true" signature="7217:7282" ph="//..." />
+                <marker date="1499911998891" expanded="true" signature="7367:8867" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="7382:7451" ph="{&quot;trigger&quot;: 'axis'...}" />
+                <marker date="1499911998891" expanded="true" signature="7466:7688" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="7485:7682" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="7702:7743" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="7756:7896" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="7766:7890" ph="{&quot;type&quot;: 'category'...}" />
+                <marker date="1499911998891" expanded="true" signature="7909:8351" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="7919:8128" ph="{&quot;name&quot;: '水量'...}" />
+                <marker date="1499911998891" expanded="true" signature="8063:8118" ph="{&quot;formatter&quot;: '{value} ml'...}" />
+                <marker date="1499911998891" expanded="true" signature="8138:8345" ph="{&quot;name&quot;: '温度'...}" />
+                <marker date="1499911998891" expanded="true" signature="8280:8335" ph="{&quot;formatter&quot;: '{value} °C'...}" />
+                <marker date="1499911998891" expanded="true" signature="8365:8865" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="8375:8521" ph="{&quot;name&quot;: '蒸发量'...}" />
+                <marker date="1499911998891" expanded="true" signature="8531:8677" ph="{&quot;name&quot;: '降水量'...}" />
+                <marker date="1499911998891" expanded="true" signature="8687:8859" ph="{&quot;name&quot;: '平均温度'...}" />
+                <marker date="1499911998891" expanded="true" signature="8901:8955" ph="//..." />
+                <marker date="1499911998891" expanded="true" signature="9042:10733" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="9056:9115" ph="{&quot;text&quot;: '某地区蒸发量和降水量'...}" />
+                <marker date="1499911998891" expanded="true" signature="9131:9162" ph="{&quot;trigger&quot;: 'axis'...}" />
+                <marker date="1499911998891" expanded="true" signature="9176:9210" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="9225:9473" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="9266:9467" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="9510:9652" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="9520:9646" ph="{&quot;type&quot;: 'category'...}" />
+                <marker date="1499911998891" expanded="true" signature="9666:9720" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="9676:9714" ph="{&quot;type&quot;: 'value'...}" />
+                <marker date="1499911998891" expanded="true" signature="9735:10731" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="9745:10207" ph="{&quot;name&quot;: '蒸发量'...}" />
+                <marker date="1499911998891" expanded="true" signature="9907:10062" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="9932:10048" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="10087:10197" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="10112:10183" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="10217:10725" ph="{&quot;name&quot;: '降水量'...}" />
+                <marker date="1499911998891" expanded="true" signature="10379:10579" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="10404:10565" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="10604:10715" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="10629:10701" ph="[...]" />
+                <marker date="1499911998891" expanded="true" signature="10828:10963" ph="//..." />
+                <marker date="1499911998891" expanded="true" signature="10965:11063" ph="//..." />
+                <marker date="1499911998891" expanded="true" signature="11126:11201" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="11256:11331" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="11384:11460" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="11514:11590" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="11643:11719" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="11755:11995" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="11862:11990" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="11900:11937" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="11945:11985" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="12028:12276" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="12139:12271" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="12177:12216" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="12224:12266" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="12320:12752" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="12378:12463" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="12522:12604" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="12659:12744" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="12791:12904" ph="{...}" />
+                <marker date="1499911998891" expanded="true" signature="12832:12896" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,28 +231,8 @@
       <file leaf-file-name="routes.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="qi_yexiangqing_jingyingxinxi.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/qi_yexiangqing_jingyingxinxi.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="qi_yexiangqing_falvsusong.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/qi_yexiangqing_falvsusong.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -113,8 +241,8 @@
       <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/di_yajiankong/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
-              <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -135,15 +263,12 @@
         <option value="$PROJECT_DIR$/app/controllers/qi_yexiangqing_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/xi_tongshezhi_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/jian_kongdongtai/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/qi_yexiangqing/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/users/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/xi_tongshezhi/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/she_baojiankong/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/she_baojiankong.scss" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/qi_yejiankong/index.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_contant-table.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/_contant-table.scss" />
         <option value="$PROJECT_DIR$/app/views/di_yajiankong/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/di_yajiankong.scss" />
@@ -151,6 +276,9 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/qi_yexiangqing_falvsusong.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/qi_yexiangqing_jingyingxinxi.scss" />
+        <option value="$PROJECT_DIR$/app/views/she_baojiankong/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_contant-table.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/jian_kongdongtai/index.html.erb" />
       </list>
     </option>
   </component>
@@ -168,9 +296,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="13" />
     <option name="y" value="30" />
-    <option name="width" value="1139" />
-    <option name="height" value="659" />
+    <option name="width" value="1310" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -187,7 +316,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -197,6 +327,68 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ZhiSouSou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZhiSouSou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZhiSouSou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZhiSouSou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZhiSouSou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZhiSouSou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ZhiSouSou" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jian_kongdongtai" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -296,8 +488,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="RailsProjectView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -488,34 +679,36 @@
       <workItem from="1499391771129" duration="2788000" />
       <workItem from="1499476455866" duration="1092000" />
       <workItem from="1499766886664" duration="540000" />
+      <workItem from="1499840623087" duration="328000" />
+      <workItem from="1499908561117" duration="2391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13689000" />
+    <option name="totallyTimeSpent" value="16408000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1139" height="659" extended-state="0" />
+    <frame x="13" y="30" width="1310" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2757052" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26335877" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10567823" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35240573" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,13 +730,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -563,7 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -578,7 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -602,7 +786,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding />
+          <folding>
+            <marker date="1499831070623" expanded="true" signature="1525:1532" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -617,7 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1500">
           <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,7 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2025">
           <caret line="135" column="27" lean-forward="true" selection-start-line="135" selection-start-column="27" selection-end-line="135" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -648,7 +832,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -656,7 +839,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +862,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding />
+          <folding>
+            <marker date="1499831070623" expanded="true" signature="1525:1532" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -769,13 +953,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/jian_kongdongtai/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/qi_yexiangqing/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -801,22 +978,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/she_baojiankong/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -829,34 +997,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_contant-table.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/_contant-table.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/di_yajiankong/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
-          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -865,7 +1016,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -873,13 +1023,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-540">
           <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/qi_yejiankong/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
+        <state relative-caret-position="705">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
@@ -887,41 +1036,195 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/di_yajiankong.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1545">
-          <caret line="103" column="0" lean-forward="true" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="488" column="6" lean-forward="false" selection-start-line="488" selection-start-column="6" selection-end-line="488" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="7800">
+          <caret line="539" column="2" lean-forward="false" selection-start-line="539" selection-start-column="2" selection-end-line="539" selection-end-column="2" />
+          <folding>
+            <marker date="1499911998891" expanded="true" signature="22:12922" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="2787:3016" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="2841:2907" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="2948:3014" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="3100:3200" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="3241:3343" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="3381:3874" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="3615:3715" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="3756:3858" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="3888:3992" ph="//..." />
+            <marker date="1499911998891" expanded="true" signature="4037:4103" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="4134:4201" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="4232:4589" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="4420:4486" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="4517:4584" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="4597:4627" ph="//..." />
+            <marker date="1499911998891" expanded="true" signature="4744:5979" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="4759:4837" ph="{&quot;trigger&quot;: 'item'...}" />
+            <marker date="1499911998891" expanded="true" signature="4851:5006" ph="{&quot;orient&quot;: 'vertical'...}" />
+            <marker date="1499911998891" expanded="true" signature="5020:5977" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="5021:5548" ph="{&quot;name&quot;: '访问来源'...}" />
+            <marker date="1499911998891" expanded="true" signature="5142:5223" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="5164:5213" ph="{&quot;position&quot;: 'inner'...}" />
+            <marker date="1499911998891" expanded="true" signature="5244:5319" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="5266:5309" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="5335:5542" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="5336:5421" ph="{&quot;name&quot;: '40后'...}" />
+            <marker date="1499911998891" expanded="true" signature="5423:5481" ph="{&quot;name&quot;: '50后'...}" />
+            <marker date="1499911998891" expanded="true" signature="5483:5541" ph="{&quot;name&quot;: '60后'...}" />
+            <marker date="1499911998891" expanded="true" signature="5550:5976" ph="{&quot;name&quot;: '访问来源'...}" />
+            <marker date="1499911998891" expanded="true" signature="5642:5970" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="5644:5707" ph="{&quot;name&quot;: '1946-1949'...}" />
+            <marker date="1499911998891" expanded="true" signature="5709:5773" ph="{&quot;name&quot;: '1950-1954'...}" />
+            <marker date="1499911998891" expanded="true" signature="5775:5838" ph="{&quot;name&quot;: '1955-1959'...}" />
+            <marker date="1499911998891" expanded="true" signature="5840:5904" ph="{&quot;name&quot;: '1960-1964'...}" />
+            <marker date="1499911998891" expanded="true" signature="5906:5969" ph="{&quot;name&quot;: '1965-1969'...}" />
+            <marker date="1499911998891" expanded="true" signature="6057:6120" ph="//..." />
+            <marker date="1499911998891" expanded="true" signature="6205:7186" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="6218:6271" ph="{&quot;text&quot;: '对数轴示例'...}" />
+            <marker date="1499911998891" expanded="true" signature="6286:6358" ph="{&quot;trigger&quot;: 'item'...}" />
+            <marker date="1499911998891" expanded="true" signature="6372:6432" ph="{&quot;left&quot;: 'left'...}" />
+            <marker date="1499911998891" expanded="true" signature="6445:6591" ph="{&quot;name&quot;: 'x'...}" />
+            <marker date="1499911998891" expanded="true" signature="6603:6700" ph="{&quot;left&quot;: '3%'...}" />
+            <marker date="1499911998891" expanded="true" signature="6713:6759" ph="{&quot;name&quot;: 'y'...}" />
+            <marker date="1499911998891" expanded="true" signature="6773:7184" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="6783:6904" ph="{&quot;name&quot;: '3的指数'...}" />
+            <marker date="1499911998891" expanded="true" signature="6914:7030" ph="{&quot;name&quot;: '2的指数'...}" />
+            <marker date="1499911998891" expanded="true" signature="7040:7178" ph="{&quot;name&quot;: '1/2的指数'...}" />
+            <marker date="1499911998891" expanded="true" signature="7217:7282" ph="//..." />
+            <marker date="1499911998891" expanded="true" signature="7367:8867" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="7382:7451" ph="{&quot;trigger&quot;: 'axis'...}" />
+            <marker date="1499911998891" expanded="true" signature="7466:7688" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="7485:7682" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="7702:7743" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="7756:7896" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="7766:7890" ph="{&quot;type&quot;: 'category'...}" />
+            <marker date="1499911998891" expanded="true" signature="7909:8351" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="7919:8128" ph="{&quot;name&quot;: '水量'...}" />
+            <marker date="1499911998891" expanded="true" signature="8063:8118" ph="{&quot;formatter&quot;: '{value} ml'...}" />
+            <marker date="1499911998891" expanded="true" signature="8138:8345" ph="{&quot;name&quot;: '温度'...}" />
+            <marker date="1499911998891" expanded="true" signature="8280:8335" ph="{&quot;formatter&quot;: '{value} °C'...}" />
+            <marker date="1499911998891" expanded="true" signature="8365:8865" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="8375:8521" ph="{&quot;name&quot;: '蒸发量'...}" />
+            <marker date="1499911998891" expanded="true" signature="8531:8677" ph="{&quot;name&quot;: '降水量'...}" />
+            <marker date="1499911998891" expanded="true" signature="8687:8859" ph="{&quot;name&quot;: '平均温度'...}" />
+            <marker date="1499911998891" expanded="true" signature="8901:8955" ph="//..." />
+            <marker date="1499911998891" expanded="true" signature="9042:10733" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="9056:9115" ph="{&quot;text&quot;: '某地区蒸发量和降水量'...}" />
+            <marker date="1499911998891" expanded="true" signature="9131:9162" ph="{&quot;trigger&quot;: 'axis'...}" />
+            <marker date="1499911998891" expanded="true" signature="9176:9210" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="9225:9473" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="9266:9467" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="9510:9652" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="9520:9646" ph="{&quot;type&quot;: 'category'...}" />
+            <marker date="1499911998891" expanded="true" signature="9666:9720" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="9676:9714" ph="{&quot;type&quot;: 'value'...}" />
+            <marker date="1499911998891" expanded="true" signature="9735:10731" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="9745:10207" ph="{&quot;name&quot;: '蒸发量'...}" />
+            <marker date="1499911998891" expanded="true" signature="9907:10062" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="9932:10048" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="10087:10197" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="10112:10183" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="10217:10725" ph="{&quot;name&quot;: '降水量'...}" />
+            <marker date="1499911998891" expanded="true" signature="10379:10579" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="10404:10565" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="10604:10715" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="10629:10701" ph="[...]" />
+            <marker date="1499911998891" expanded="true" signature="10828:10963" ph="//..." />
+            <marker date="1499911998891" expanded="true" signature="10965:11063" ph="//..." />
+            <marker date="1499911998891" expanded="true" signature="11126:11201" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="11256:11331" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="11384:11460" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="11514:11590" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="11643:11719" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="11755:11995" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="11862:11990" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="11900:11937" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="11945:11985" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="12028:12276" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="12139:12271" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="12177:12216" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="12224:12266" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="12320:12752" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="12378:12463" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="12522:12604" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="12659:12744" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="12791:12904" ph="{...}" />
+            <marker date="1499911998891" expanded="true" signature="12832:12896" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/qi_yexiangqing_falvsusong.scss">
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/qi_yexiangqing_falvsusong.scss" />
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/qi_yexiangqing_jingyingxinxi.scss" />
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="54" lean-forward="false" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/qi_yexiangqing_jingyingxinxi.scss">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/rubymine.jar!/resources/html5-schema/html5/common.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="144">
+          <caret line="192" column="18" lean-forward="false" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_contant-table.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="78" lean-forward="false" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <marker date="1499831070623" expanded="true" signature="1525:1532" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/jian_kongdongtai/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="157" column="48" lean-forward="false" selection-start-line="157" selection-start-column="48" selection-end-line="157" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#div#1;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#2;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#3;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#4;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#5;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#6;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#7;n#div#2;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,16 +1,35 @@
 $(function (argument) {
 
 	//application   导航菜单
-//   $('.menu').on('click', function (argument) {
-//                     $(this) .css({
-//                       'color':'#F39800',
-//                       'background-color':'#F8F8F8'
-//                     }).siblings('.menu').css({
-//                       'background-color':'#fff',
-//                       'color':'#666666'
-//                     });
+// $('.menu').mouseover(function (argument) {
+//        $(this).css({   'color':'#F39800',
+//                        'background-color':'#F8F8F8'})
+// })          .mouseout(function (argument) {
+//        $(this).css({  'background-color':'#fff',
+//                       'color':'#666666'})
+// })         .click(function (argument) {
+//         $(this).css({})
+//         .off('mouseover mouseout').siblings('.menu').css({'background-color':'#fff',
+//                       'color':'#666666'})
+//             .mouseover(function (argument) {
+//        $(this).css({'background-color':'#0C93E9','color':'#fff'})
+// })          .mouseout(function (argument) {
+//        $(this).css({'background-color':'#fff','color':'#666666'})
+// })})
+            var url = window.location.pathname;
+            $('.menu').each(function(){
+                var hre = $(this).attr('href');
+                if(url == hre){
+                    $(this).css({   'color':'#F39800',
+                       'background-color':'#F8F8F8'})
+                    $(this).siblings('.menu').css({'background-color':'#fff',
+                     'color':'#666666'})
+                }
+            }) 
 
-// })
+
+
+
 
 //客户
 
@@ -38,13 +57,13 @@ $('.l_grzl_span').mouseover(function function_name(argument) {
 
 
 //企业监控筛选功能
-$('.l_inp_sort').mouseover(function (argument) {
+$('.l_inp_sort ').mouseover(function (argument) {
 	   $(this).css({'background-color':'#0C93E9','color':'#fff'})
 })          .mouseout(function (argument) {
 	   $(this).css({'background-color':'#fff','color':'#666666'})
 })          .click(function (argument) {
 	    $(this).css({'background-color':'#0C93E9','color':'#fff'})
-	    .off('mouseover mouseout').siblings('input').css({background: '#fff',color: '#666666'})
+	 .off('mouseover mouseout').siblings('input').css({'background-color': '#fff',"color": '#666666'})
 	        .mouseover(function (argument) {
 	   $(this).css({'background-color':'#0C93E9','color':'#fff'})
 })          .mouseout(function (argument) {
@@ -57,15 +76,26 @@ $('.y_btn_inp').mouseover(function (argument) {
 	   $(this).css({'background-color':'#fff','color':'#666666'})
 })          .click(function (argument) {
 	    $(this).css({'background-color':'#0C93E9','color':'#fff'})
-	    .off('mouseover mouseout').siblings('input').css({background: '#fff',color: '#666666'})
+	    .off('mouseover mouseout').siblings('input').css({'background-color': '#fff',"color": '#666666'})
 	        .mouseover(function (argument) {
 	   $(this).css({'background-color':'#0C93E9','color':'#fff'})
 })          .mouseout(function (argument) {
 	   $(this).css({'background-color':'#fff','color':'#666666'})
 })})
+//抵押监控筛选
 
-
-
+$('.c_sx_jq ').mouseover(function (argument) {
+       $(this).css({'background-color':'#0C93E9','color':'#fff'})
+})          .mouseout(function (argument) {
+       $(this).css({'background-color':'#fff','color':'#666666'})
+})          .click(function (argument) {
+        $(this).css({'background-color':'#0C93E9','color':'#fff'})
+     .off('mouseover mouseout').siblings('input').css({'background-color': '#fff',"color": '#666666'})
+            .mouseover(function (argument) {
+       $(this).css({'background-color':'#0C93E9','color':'#fff'})
+})          .mouseout(function (argument) {
+       $(this).css({'background-color':'#fff','color':'#666666'})
+})})
 
 //企业详情页风险概述
 
@@ -503,6 +533,8 @@ $(document).ready(function(){
         })
 
     })
+
+
 
 
 

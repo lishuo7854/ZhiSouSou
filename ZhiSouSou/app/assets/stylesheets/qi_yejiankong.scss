@@ -160,6 +160,7 @@ right: -140px;
 }
 
 .middles-left{
+
 float: left;
 margin-top: -30px;
 margin-left: 30px;
@@ -179,8 +180,8 @@ margin-top: 20px;
     line-height:  30px;
 }
 
-.l_inp_sort{
-   color: #666666;
+#l_inp_sort{
+   color: #fff;
   border: 1px solid  #DDDDDD;
 }
 .middles_right_top{
@@ -525,7 +526,7 @@ color: #F39800;
 }*/
 
 
- .menu:hover {
+   .menu:hover {
 color: #F39800;
  background-color:#F8F8F8;
  text-decoration: none;
@@ -594,3 +595,5 @@ color: #F39800;
 .inp_l_li:hover{
      text-decoration: none;
 }
+
+
