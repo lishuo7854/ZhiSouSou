@@ -1,14 +1,35 @@
 $(function (argument) {
-  $('.menu').on('mouseover', function (argument) {
-                    $(this) .css({
-                      'color':'#F39800',
-                      'background-color':'#F8F8F8'
-                    }).siblings('.menu').css({
-                      'background-color':'#fff',
-                      'color':'#666666'
-                    });
 
-})
+	//application   导航菜单
+// $('.menu').mouseover(function (argument) {
+//        $(this).css({   'color':'#F39800',
+//                        'background-color':'#F8F8F8'})
+// })          .mouseout(function (argument) {
+//        $(this).css({  'background-color':'#fff',
+//                       'color':'#666666'})
+// })         .click(function (argument) {
+//         $(this).css({})
+//         .off('mouseover mouseout').siblings('.menu').css({'background-color':'#fff',
+//                       'color':'#666666'})
+//             .mouseover(function (argument) {
+//        $(this).css({'background-color':'#0C93E9','color':'#fff'})
+// })          .mouseout(function (argument) {
+//        $(this).css({'background-color':'#fff','color':'#666666'})
+// })})
+            var url = window.location.pathname;
+            $('.menu').each(function(){
+                var hre = $(this).attr('href');
+                if(url == hre){
+                    $(this).css({   'color':'#F39800',
+                       'background-color':'#F8F8F8'})
+                    $(this).siblings('.menu').css({'background-color':'#fff',
+                     'color':'#666666'})
+                }
+            }) 
+
+
+
+
 
 //客户
 
@@ -36,20 +57,45 @@ $('.l_grzl_span').mouseover(function function_name(argument) {
 
 
 //企业监控筛选功能
-$('.l_inp_sort').mouseover(function (argument) {
+$('.l_inp_sort ').mouseover(function (argument) {
 	   $(this).css({'background-color':'#0C93E9','color':'#fff'})
 })          .mouseout(function (argument) {
 	   $(this).css({'background-color':'#fff','color':'#666666'})
 })          .click(function (argument) {
 	    $(this).css({'background-color':'#0C93E9','color':'#fff'})
-	    .off('mouseover mouseout').siblings('input').css({background: '#fff',color: '#666666'})
+	 .off('mouseover mouseout').siblings('input').css({'background-color': '#fff',"color": '#666666'})
 	        .mouseover(function (argument) {
 	   $(this).css({'background-color':'#0C93E9','color':'#fff'})
 })          .mouseout(function (argument) {
 	   $(this).css({'background-color':'#fff','color':'#666666'})
 })})
+//社保监控筛选
+$('.y_btn_inp').mouseover(function (argument) {
+	   $(this).css({'background-color':'#0C93E9','color':'#fff'})
+})          .mouseout(function (argument) {
+	   $(this).css({'background-color':'#fff','color':'#666666'})
+})          .click(function (argument) {
+	    $(this).css({'background-color':'#0C93E9','color':'#fff'})
+	    .off('mouseover mouseout').siblings('input').css({'background-color': '#fff',"color": '#666666'})
+	        .mouseover(function (argument) {
+	   $(this).css({'background-color':'#0C93E9','color':'#fff'})
+})          .mouseout(function (argument) {
+	   $(this).css({'background-color':'#fff','color':'#666666'})
+})})
+//抵押监控筛选
 
-
+$('.c_sx_jq ').mouseover(function (argument) {
+       $(this).css({'background-color':'#0C93E9','color':'#fff'})
+})          .mouseout(function (argument) {
+       $(this).css({'background-color':'#fff','color':'#666666'})
+})          .click(function (argument) {
+        $(this).css({'background-color':'#0C93E9','color':'#fff'})
+     .off('mouseover mouseout').siblings('input').css({'background-color': '#fff',"color": '#666666'})
+            .mouseover(function (argument) {
+       $(this).css({'background-color':'#0C93E9','color':'#fff'})
+})          .mouseout(function (argument) {
+       $(this).css({'background-color':'#fff','color':'#666666'})
+})})
 
 //企业详情页风险概述
 
@@ -457,6 +503,94 @@ $(document).ready(function(){
 		} 
 		}) 
 	})
+
+
+
+
+//抵押监控筛选功能
+
+    $(function (argument) {
+        $('.c_sx_jq,.c_sx_jq_kh').mouseover(function () {
+            $(this).css({'background-color': '#0C93E9', 'color': '#fff'})
+        })
+        $('.c_sx_jq,.c_sx_jq_kh').mouseleave(function () {
+            $(this).css({'background-color': '#fff', 'color': '#666'})
+        })
+
+        $('.c_sx_jq,.c_sx_jq_kh').click(function () {
+            $(this).css({'background-color': '#0C93E9', 'color': '#fff'})
+        })
+
+    })
+
+
+
+//法律诉讼
+
+    $(function (argument) {
+        $('.c_mbgs').click(function () {
+            $(".c_mbgs_gs").css({'display':'block'})
+        })
+
+    })
+
+
+
+
+
+
+$('#l_xq_middle_button_mid_ul_li_id_1').click(function (argument) {
+        $('#qiyexiangqing_span_id_1').css('display','block').siblings('.qiyexiangqing_span_display').css('display','none')
+
+})
+
+
+
+
+
+// 详情页面导航菜单和内容切换
+$('#l_xq_middle_button_mid_ul_li_id_1').click(function (argument) {
+                $('.qyxq_menu_display_1').css('display','block')
+                    $('.qyxq_menu_display_2,.qyxq_menu_display_3,.qyxq_menu_display_4,.qyxq_menu_display_5,.qyxq_menu_display_6,.qyxq_menu_display_7,.qyxq_menu_display_8').css('display','none')
+})
+
+$('#l_xq_middle_button_mid_ul_li_id_2').click(function (argument) {
+                $('.qyxq_menu_display_2').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_3,.qyxq_menu_display_4,.qyxq_menu_display_5,.qyxq_menu_display_6,.qyxq_menu_display_7,.qyxq_menu_display_8').css('display','none')
+})
+$('#l_xq_middle_button_mid_ul_li_id_3').click(function (argument) {
+                $('.qyxq_menu_display_3').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_2,.qyxq_menu_display_4,.qyxq_menu_display_5,.qyxq_menu_display_6,.qyxq_menu_display_7,.qyxq_menu_display_8').css('display','none')
+})
+$('#l_xq_middle_button_mid_ul_li_id_4').click(function (argument) {
+                $('.qyxq_menu_display_4').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_3,.qyxq_menu_display_2,.qyxq_menu_display_5,.qyxq_menu_display_6,.qyxq_menu_display_7,.qyxq_menu_display_8').css('display','none')
+})
+$('#l_xq_middle_button_mid_ul_li_id_5').click(function (argument) {
+                $('.qyxq_menu_display_5').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_3,.qyxq_menu_display_2,.qyxq_menu_display_4,.qyxq_menu_display_6,.qyxq_menu_display_7,.qyxq_menu_display_8').css('display','none')
+})
+$('#l_xq_middle_button_mid_ul_li_id_6').click(function (argument) {
+                $('.qyxq_menu_display_6').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_3,.qyxq_menu_display_2,.qyxq_menu_display_4,.qyxq_menu_display_5,.qyxq_menu_display_7,.qyxq_menu_display_8').css('display','none')
+})
+$('#l_xq_middle_button_mid_ul_li_id_7').click(function (argument) {
+                $('.qyxq_menu_display_7').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_3,.qyxq_menu_display_2,.qyxq_menu_display_4,.qyxq_menu_display_5,.qyxq_menu_display_6,.qyxq_menu_display_8').css('display','none')
+})
+$('#l_xq_middle_button_mid_ul_li_id_8').click(function (argument) {
+                $('.qyxq_menu_display_8').css('display','block')
+                    $('.qyxq_menu_display_1,.qyxq_menu_display_3,.qyxq_menu_display_2,.qyxq_menu_display_4,.qyxq_menu_display_5,.qyxq_menu_display_6,.qyxq_menu_display_7').css('display','none')
+})
+
+
+
+
+
+
+
+
+
 
 
 

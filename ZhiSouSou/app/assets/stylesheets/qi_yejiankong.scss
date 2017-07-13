@@ -160,6 +160,7 @@ right: -140px;
 }
 
 .middles-left{
+
 float: left;
 margin-top: -30px;
 margin-left: 30px;
@@ -179,13 +180,13 @@ margin-top: 20px;
     line-height:  30px;
 }
 
-.l_inp_sort{
-   color: #666666;
+#l_inp_sort{
+   color: #fff;
   border: 1px solid  #DDDDDD;
 }
 .middles_right_top{
 
-margin-top: -40px;
+margin-top: -30px;
 
 
 }
@@ -250,11 +251,17 @@ height:34px;
 	padding-bottom: 25px;
 
 }
+.border_bottom_li{
+        width: 100%;
+        height: 2px;
+          border-bottom: 1px solid  #F1F1F1;
+          position: relative;top: -30px;
+}
 
 .l_xq_middle_top_left{
             position: relative;
             top: -33px;
-            border-bottom: 1px solid  #F1F1F1;
+          
 
 
 }
@@ -492,3 +499,101 @@ font-size: 13px;
 .navFix{position: fixed; left: 15px; top: 0; width: 100%; min-width: 1220px; border-radius: 0; z-index: 9999;}
 
 .navFix_2{position: fixed; left: 15px; top: -30px; width: 100%; min-width: 1220px; border-radius: 0; z-index: 9999;}
+
+
+
+
+#dropdownMenu1{
+width: 200px;
+text-align: left;
+
+    }
+
+/*+++++++++++++++++++++++++++++++*/
+    .menu{
+    	display: block;
+    	text-decoration: none;
+    }
+
+/*  .menu:link {
+  	color: #F39800;
+ text-decoration: none;
+}*/
+/* .menu:visited {
+ text-decoration: none;
+color: #F39800;
+ background-color:#F8F8F8;
+}*/
+
+
+   .menu:hover {
+color: #F39800;
+ background-color:#F8F8F8;
+ text-decoration: none;
+}
+
+
+/* .menu:active {
+
+ 	color: #F39800;
+ background-color:#F8F8F8;
+ text-decoration: none;
+}
+*/
+
+.li_middles_top_li{
+     margin: 0 auto;
+     width: 96%;
+
+}
+
+
+.li_middles_top_left a{
+      text-decoration: none;
+}
+
+.li_middles_top_a:hover{
+	  text-decoration: none;
+}
+
+.li_middles_top_left{
+             width: 50%;
+             float: left;
+
+}
+
+.li_middles_top_right{
+             width: 50%;
+             float: right;
+             position: relative;top: -30px;
+
+}
+
+.dropdown{
+	float: right;
+	margin-right: 130px;
+
+}
+
+#dropdownMenu1{
+	background-color: #fff;
+	border: 1px solid  #CCCCCC;
+	
+}
+
+#caret_e{
+	float: right;
+	margin-top: 8px;
+}
+
+.li_display_sousuo{
+    
+
+}
+
+
+.inp_l_li:hover{
+     text-decoration: none;
+}
+
+
