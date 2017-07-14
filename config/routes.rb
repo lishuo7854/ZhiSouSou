@@ -6,4 +6,5 @@ Rails.application.routes.draw do
    resources :sessions
    get 'xi_tongshezhi/index'
    get 'qiyediya/index'
+   get 'jianzhuxinxi/index'
 end

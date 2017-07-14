@@ -1,0 +1,63 @@
+.q_button{
+    border-bottom : 1px solid #eaeaea;
+}
+#q_btn{
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius : 0px ;
+    color : #666;
+    background-color : #eee; 
+}
+.q_tip{
+    padding : 20px 20px 20px 0;
+    color : #444;
+}
+dl{
+    margin-top : 0;
+    margin-bottom : 20px ;
+    color : #000;
+}
+dt{
+    font-weight : 700;
+}
+dl dt{
+    background : #eee;
+    padding : 10px 15px ;
+    overflow : hidden;
+}
+dl dd{
+    border-bottom : 1px solid #eaeaea;
+    border-left : 1px solid #eaeaea;
+}
+#q_strong{
+    background : #ff9f26;
+    color : #fff;
+     border-bottom : 1px solid #eaeaea;
+    border-left : 1px solid #eaeaea;
+}
+.q_title{
+    background : #f9f9f9;
+    padding : 10px 15px;
+    text-align : left;
+    border-bottom : 1px solid #fff;
+    vertical-align : middle;
+    font-weight : hold ;
+}
+.q_td{
+    border-bottom : 1px solid #eaeaea;
+    border-right : 1px solid #eaeaea;
+    border-left : 1px solid #eaeaea;
+    padding : 10px 8px;
+    text-align : center;
+    color : #000;
+    background-color : #fff; 
+}
+.q_range{
+    float : left ;
+    padding-left : 92px; 
+    padding-top : 10px;
+}
+
+.q_color{
+    background-color :#eeeeee; 
+    color : #000;
+}
