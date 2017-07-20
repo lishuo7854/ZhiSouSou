@@ -35,10 +35,53 @@
 
    		<div class="middles_right_buttom">
    			
-   			<i  class="glyphicon glyphicon-new-window l_sousuos"> </i><input type="button" style=" z-index: -1;" value="导出法律诉讼" name="" class="btn btn-warning l_out_put">
+   			<i  class="glyphicon glyphicon-new-window l_sousuos"> </i><input type="button" style=" z-index: -1;" data-toggle="modal" data-target="#myModal3" value="导出法律诉讼" name="" class="btn btn-warning l_out_put">
    			<input class="btn btn-warning l_out_put" style="z-index: -1;  background-image: url(../IMAGE/piliang.png) ; background-repeat: no-repeat; background-position: 0px; padding-left: 25px;" type="button" value="批量导出" name="">
    		
    		</div>
+<!-- 导出法律诉讼模态框++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+<div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog"  style="width: 500px;">
+    <div class="modal-content" style="width: 500px; height: 184px;">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+          &times;
+        </button>
+        <h4 class="modal-title" id="myModalLabel">
+          导出法律诉讼
+        </h4>
+      </div>
+
+      <form role="form" style="margin-top: 20px;">
+     
+  <button type="button" class="btn btn-primary li_daochubaogao" style="margin-left: 80px;">
+          导出报告
+        </button>
+
+    <input type="text" class="form-control li_daochubaogao" style="width: 121px;" id="name" 
+         placeholder="选择开始日期"><input type="text" class="form-control li_daochubaogao"  style="width: 121px;"  id="name" 
+         placeholder="选择结束日期">
+</form>
+    
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal -->
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
