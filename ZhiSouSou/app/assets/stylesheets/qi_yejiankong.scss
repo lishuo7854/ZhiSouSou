@@ -117,7 +117,7 @@ right: -140px;
 .header_right_display{
 	position: absolute;
 	width: 150px;
-	height: 363px;
+	height: 360px;
 	background: #fff;
 	margin-top: -77px;
 	z-index: 99;
@@ -144,8 +144,15 @@ right: -140px;
 	color: #999;
 	height: 43px;
 	background-color: #fff;
+	text-decoration: none;
+	font-size: 14px;
 }
 .l_grzl_span a{
+	text-decoration: none;
+	font-size: 14px;
+}
+
+.l_grzl_span a:hover{
 	text-decoration: none;
 	font-size: 14px;
 }
@@ -583,7 +590,8 @@ color: #F39800;
 
 #caret_e{
 	float: right;
-	margin-top: 8px;
+	margin-top: 0px;
+	    position: relative;top: -8px;
 }
 
 .li_display_sousuo{
@@ -597,3 +605,7 @@ color: #F39800;
 }
 
 
+#name_li{
+	font-weight: normal;
+	color: #444444;
+}

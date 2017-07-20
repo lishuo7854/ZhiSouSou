@@ -15,3 +15,6 @@
 
 //= require_tree .
 //= require javascript.js
+
+ //= require  jquery.min.js
+ //= require bootstrap.min.js
