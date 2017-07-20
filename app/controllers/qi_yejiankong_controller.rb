@@ -1,0 +1,2 @@
+class QiYejiankongController < ApplicationController
+end
