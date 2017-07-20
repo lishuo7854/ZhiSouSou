@@ -13,6 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+@import "she_baojinkong";
+@import "_contant-table";
+@import "_footer";
+
  @import "bootstrap-sprockets";
-@import "bootstrap";
-@import "font-awesome";
+

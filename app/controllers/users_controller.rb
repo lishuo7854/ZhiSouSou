@@ -1,5 +1,9 @@
 class UsersController < ApplicationController
 
+def index
+  
+end
+
   def new
     @is_using_email = true
     @user = User.new

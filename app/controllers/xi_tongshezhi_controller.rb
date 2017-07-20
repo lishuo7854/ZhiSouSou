@@ -1,9 +1,7 @@
 class XiTongshezhiController < ApplicationController
 
-
-def iindex
+def index
     
 end
-
 
 end
